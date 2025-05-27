@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Hsan-Cloud
+/src/backend/database.py      @Hsan-Cloud
+/src/backend/routers/auth.py  @Hsan-Cloud
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Hsan-Cloud
